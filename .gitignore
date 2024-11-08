@@ -1,0 +1,9 @@
+*.pyc
+__pycache__/
+.DS_Store
+*.log
+.env
+venv/
+.idea/
+*.csv
+*.xlsx
